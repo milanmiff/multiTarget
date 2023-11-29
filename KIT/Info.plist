@@ -4,16 +4,13 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
-		<string>MuseoSans_500_Italic.otf</string>
-		<string>MuseoSans_500.otf</string>
-		<string>MuseoSans_700.otf</string>
-		<string>MuseoSans_900.otf</string>
-		<string>MuseoSans-100.otf</string>
-		<string>MuseoSans-100Italic.otf</string>
-		<string>MuseoSans-300.otf</string>
-		<string>MuseoSans-300Italic.otf</string>
-		<string>MuseoSans-700Italic.otf</string>
-		<string>MuseoSans-900Italic.otf</string>
+		<string>Dosis-Bold.ttf</string>
+		<string>Dosis-ExtraLight.ttf</string>
+		<string>Dosis-ExtraBold.ttf</string>
+		<string>Dosis-Light.ttf</string>
+		<string>Dosis-Medium.ttf</string>
+		<string>Dosis-Regular.ttf</string>
+		<string>Dosis-SemiBold.ttf</string>
 	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
